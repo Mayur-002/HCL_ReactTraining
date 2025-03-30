@@ -1,0 +1,89 @@
+{
+  "users": [],
+  "books": [
+    {
+      "id": "101",
+      "title": "React",
+      "price": 20,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSr3GIg9CVtBKbD5jhSKQVqjxJPN_4kuaftA&s",
+      "description": "A complete guide to building modern React applications."
+    },
+    {
+      "id": "102",
+      "title": "Modern Angular",
+      "price": 18,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGP8qgcmzxOEj5ydbmxh8cN4e6wRJN9fhG7A&s",
+      "description": "Master Angular and build dynamic web applications."
+    },
+    {
+      "id": "103",
+      "title": "Java",
+      "price": 25,
+      "image": "https://m.media-amazon.com/images/I/71m+tG7d0eL._AC_UF350,350_QL50_.jpg",
+      "description": "A deep dive into Java programming and best practices."
+    },
+    {
+      "id": "104",
+      "title": "C Programming Basics",
+      "price": 15,
+      "image": "https://m.media-amazon.com/images/I/91IXgHeNEZL._AC_UF1000,1000_QL80_.jpg",
+      "description": "A beginner-friendly introduction to C programming."
+    },
+    {
+      "id": "105",
+      "title": "Advanced C++",
+      "price": 22,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ0r4Rmw_C3KJ-oMLBfy9Rqi-o3FmON00ExQ&s",
+      "description": "An advanced guide to C++ programming with real-world examples."
+    },
+    {
+      "id": "106",
+      "title": "C#",
+      "price": 24,
+      "image": "https://d2sofvawe08yqg.cloudfront.net/csharp-for-babies/s_hero2x?1660053972",
+      "description": "Learn C# from basics to professional-level development."
+    },
+    {
+      "id": "107",
+      "title": "ASP .NET",
+      "price": 28,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRI5YaNVQQPAFQ2KN-_a3ER4duiHa0XvZ8FhQ&s",
+      "description": "Master ASP.NET for building robust web applications."
+    },
+    {
+      "id": "108",
+      "title": "Python",
+      "price": 30,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHWk4GXD3B2L79LpoEPG9QZIxCsZQgFF5I1w&s",
+      "description": "A complete guide to Python programming and data science."
+    },
+    {
+      "id": "109",
+      "title": "JavaScript",
+      "price": 26,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKTpTbAWoq_Xb3JiF10n9JBK-Kb-5x33o5fw&s",
+      "description": "Learn JavaScript from basics to advanced topics."
+    },
+    {
+      "id": "110",
+      "title": "SQL",
+      "price": 20,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYoiuZElil9UF68-hS_BBiw8Qqj3ne-f_TfA&s",
+      "description": "Master SQL for efficient database management and queries."
+    },
+    {
+      "id": "111",
+      "title": "Rust",
+      "price": 27,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpbrdpeeQdpzTZeZdme0NwVffpvHTt6Gn3XA&s",
+      "description": "Explore the Rust programming language and its powerful features."
+    },
+    {
+      "id": "112",
+      "title": "GoLang",
+      "price": 23,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8yND-8UOtqt_egsptvQmD02_Bwyu-uyCTwg&s",
+      "description": "A practical guide to GoLang programming."
+    }
+  ]
+}
